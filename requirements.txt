@@ -1,0 +1,8 @@
+
+torch
+transformers
+sentencepiece
+diffusers
+accelerate
+pyttsx3
+moviepy

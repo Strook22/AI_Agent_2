@@ -1,0 +1,16 @@
+
+videos/
+images/
+memory.json
+__pycache__/
+*.pyc
+.DS_Store
+
+# Virtual environments
+venv/
+.venv/
+
+# Python build artifacts
+build/
+dist/
+*.egg-info/
