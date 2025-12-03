@@ -1,5 +1,5 @@
 
-# Local Autonomous AI Agent (M4 Mac Mini Optimized)
+# Local Autonomous AI Agent (Mac Optimized)
 
 Fully offline AI agent for Apple Silicon (M1/M2/M3/M4). Generates content, AI images, offline narration, and compiles videos.
 
