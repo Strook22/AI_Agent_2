@@ -1,4 +1,4 @@
-# AI Local Agent for M4 Mac Mini
+# AI Local Agent for Mac
 
 Fully offline AI agent optimized for Apple Silicon (M1/M2/M3/M4). This autonomous agent generates creative content, AI images, offline narration, and compiles videos using locally hosted models.
 
